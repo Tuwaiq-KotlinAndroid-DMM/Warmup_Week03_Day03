@@ -14,6 +14,6 @@
 
 ## Here's what the finished app looks like:
 
-img[alt=screenshot] { width: 200px; }
+<img src="screenshot.png" alt="drawing" width="200"/>
 
 
