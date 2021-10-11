@@ -15,5 +15,5 @@
 ## Here's what the finished app looks like:
 
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
