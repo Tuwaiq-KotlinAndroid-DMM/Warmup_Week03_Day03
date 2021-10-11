@@ -14,6 +14,6 @@
 
 ## Here's what the finished app looks like:
 
-<img src="screenshot.png" alt="drawing" width="200"/>
+<img src="screenshot.png" alt="drawing" width="400"/>
 
 
